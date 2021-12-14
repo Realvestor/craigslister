@@ -1,0 +1,6 @@
+require 'nokogiri'
+require 'open-uri'
+require 'craigslister/link_scraper'
+require 'craigslister/post_scraper'
+require 'craigslister/post'
+require 'craigslister/main'
