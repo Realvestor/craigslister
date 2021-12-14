@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'craigslister'
-  s.version     = '3.1.0'
-  s.date        = '2016-01-15'
+  s.version     = '3.1.1'
+  s.date        = '2021-12-13'
   s.summary     = 'Scrape Craigslist for Real Estate Data from Posts'
   s.description = 'all you need is an item title and you can scrape posts from craigslist'
   s.authors     = ['James Dullaghan ']
